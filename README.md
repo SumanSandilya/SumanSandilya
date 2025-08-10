@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there 👋, I'm Suman Sandilya
 
-<!--
-**SumanSandilya/SumanSandilya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Bioinformatics student at Central University of Himachal Pradesh  
+🧬 Interests: Genomics • Transcriptomics • Data Science • Machine Learning  
+💻 Skills: Python, R, Bash, Biopython, Pandas, ggplot2, Snakemake, Docker  
+📂 Building my portfolio with hands-on bioinformatics projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Current Projects
+- **FASTA Tools** – Python scripts for sequence parsing & analysis  
+- **RNA-seq Pipeline** – Automated workflow for QC → Alignment → DE analysis  
+- **Variant Calling** – Bacterial genome variant identification & annotation
+
+---
+
+## 📫 Connect with me
+- LinkedIn: www.linkedin.com/in/suman-sandilya-7a0994294
+- Email: sumansandilya987@gmail.com
+
+---
+
+💡 *This profile will be updated as I complete projects during my MSc Bioinformatics journey.*
+
+
+
+
+
+
